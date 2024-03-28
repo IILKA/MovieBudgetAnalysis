@@ -2,10 +2,10 @@ $$
 F(t) = \frac{\Sigma_{i = 1}^{t} A[i]}{\Sigma_{i = 1}^{n} A[i]},  \text{where} A[i] \text{is the }ith \ \text{data point in the dataset A pf size n}
 $$
 
-$
+$$
 \text{define a random variable Profitable representing the probability of a profitable trade and } \\ \bold{Profitable} ~ \sim ~ Bernoulli(p) \text{, where p = 0.7992 as estimated in section 3.2.3a}\\
 \text{then define a random variable} \ \bold{B} \  \text{representing the amount of budget, with currently unknown distribution}
-$
+$$
 
 
 Consider following probability relations: 
